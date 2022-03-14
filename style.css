@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: rgb(95, 22, 22);
+    font-family: 'Playfair Display', serif;
+}
+
+#taskpic{
+    text-align: center;
+}
+
+.box{
+    background-color: rgb(95, 22, 22); 
+    border: 2px solid rgb(95, 22, 22) ;
+    border-radius: 2px 2px 135px 135px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+
+
+}
+
+.boxh1{
+    font-family: 'Playfair Display', serif;
+    padding: 2px 14px;
+}
+
+.box-p{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.box2{
+    background-color:rgb(95, 22, 22) ; 
+    border: 2px solid white ;
+    font-family: 'Playfair Display', serif;
+    color: rgb(255, 255, 255);
+    /* display: flex;
+    flex: 100%; */
+    padding: 86px 65px 106px 82px;
+    margin: 55px 76px 58px 87px;
+}
+
+.form-check{
+    padding:11px 10px 7px 6px;
+    
+}
+.form-check-label{
+    cursor: pointer;
+}
+.form-check-input[type=checkbox] {
+    border-radius: 4.25em;
+    cursor: pointer;
+   
+    
+}
